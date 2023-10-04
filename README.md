@@ -14,7 +14,7 @@ Before running the project, make sure you have the following libraries and tools
 
 ## Data
 
-The project uses two datasets, 'diabetes.csv' and 'diabetes1.csv', which should be placed in the same directory as your code. These datasets are merged into 'merged_diabetes_data.csv' for analysis and modeling.
+The project uses two datasets, 'diabetes.csv' and 'diabetes1.csv', which should be placed in the same directory as your code. These datasets are merged into 'merged_diabetes_data.csv' for analysis and modeling..
 
 ## Data Preprocessing
 
